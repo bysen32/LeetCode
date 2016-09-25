@@ -1,9 +1,16 @@
 # LeetCode
-Basic
+**Basic**
+
 405. Convert a Number to Hexadecimal [Easy]
-Recurtion
+
+**Recurtion**
+
 404. Sum of Left Leaves [Easy]
-Mathmatic
+
+**Mathmatic**
+
 172. Factorial Trailing Zeroes [Easy] Caculate the number of trailing zeroes in n!
-Meanless
+
+**Meanless**
+
 350. Intersection of Two Arrays II [Easy]
