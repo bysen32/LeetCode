@@ -5,5 +5,7 @@
 404.Sum of Left Leaves [Easy]  
 **Mathmatic**  
 172.Factorial Trailing Zeroes [Easy] Caculate the number of trailing zeroes in n!  
+**Find Regulation**  
+400.Nth Digit  [Easy]
 **Meanless**  
 350.Intersection of Two Arrays II [Easy]  
