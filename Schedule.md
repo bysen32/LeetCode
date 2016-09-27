@@ -5,5 +5,7 @@
 **2016-09-26**  
 172.Factorial Trailing Zeroes [Easy]  
 400.Nth Digit [Easy]  
-397. Integer Replacement [Easy]
+397.Integer Replacement [Easy]  
+**2016-09-28**
+235.Lowest Common Ancestor of a Binary Search Tree  
 
