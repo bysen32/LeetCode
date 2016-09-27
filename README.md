@@ -9,3 +9,4 @@
 400.Nth Digit  [Easy]
 **Meanless**  
 350.Intersection of Two Arrays II [Easy]  
+397.Integer Replacement [Easy]  
