@@ -10,3 +10,10 @@
 **Meanless**  
 350.Intersection of Two Arrays II [Easy]  
 406.Queue Reconstruction by Height [Middle]  
+**Mathmatic**  
+400.Nth Digit  [Easy]  
+**Data Structs**
+235.Lowest Common Ancestor of a Binary Search Tree  
+**Meanless**  
+350.Intersection of Two Arrays II [Easy]  
+397.Integer Replacement [Easy]  

@@ -6,4 +6,7 @@
 172.Factorial Trailing Zeroes [Easy]  
 400.Nth Digit [Easy]  
 406.Queue Reconstruction by Height [Middle]  
+397.Integer Replacement [Easy]  
+**2016-09-28**
+235.Lowest Common Ancestor of a Binary Search Tree  
 
