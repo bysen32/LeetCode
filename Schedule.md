@@ -13,3 +13,7 @@
 234.Palindrome Linked List  
 **2016-10-04**  
 12.Integer to Roman  
+**2016-10-08**  
+241.Different Ways to Add Parentheses [Middle]  
+**2016-10-09**  
+394.Decode String [Middle]  
