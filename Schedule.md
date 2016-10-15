@@ -22,3 +22,5 @@
 **2016-10-15**  
 416.Partition Equal Subset Sum [Middle]  
 309.Best Time to Buy and Sell Stock with Cooldown [Middle]  
+**2016-10-16**
+386.Lexicographical Numbers [Middle]  

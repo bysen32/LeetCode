@@ -4,6 +4,7 @@
 **Recurtion**  
 404.Sum of Left Leaves [Easy]  
 241.Different Ways to Add Parentheses [Middle]  
+386.Lexicographical Numbers [Middle]  tips:找规律题，注意算法效率
 **Mathmatic**  
 172.Factorial Trailing Zeroes [Easy] Caculate the number of trailing zeroes in n!  
 400.Nth Digit  [Easy]  
