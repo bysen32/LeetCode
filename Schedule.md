@@ -24,4 +24,5 @@
 309.Best Time to Buy and Sell Stock with Cooldown [Middle]  
 **2016-10-16**
 386.Lexicographical Numbers [Middle]  
-399. Evaluate Division [Middle]  
+399.Evaluate Division [Middle]  
+313.Super Ugly Number [Middle]  

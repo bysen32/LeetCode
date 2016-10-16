@@ -11,6 +11,7 @@
 **Find Regulation**  
 12.Integer to Roman[Middle]  
 394.Decode String[Middle]  
+313.Super Ugly Number [Middle] tips:逆向思维好题
 **Data Structs**  
 235.Lowest Common Ancestor of a Binary Search Tree  
 234.Palindrome Linked List  
