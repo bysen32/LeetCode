@@ -26,3 +26,5 @@
 386.Lexicographical Numbers [Middle]  
 399.Evaluate Division [Middle]  
 313.Super Ugly Number [Middle]  
+**2016-10-18**
+341.Flatten Nested List Iterator [Middle]  
