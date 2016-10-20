@@ -28,5 +28,7 @@
 313.Super Ugly Number [Middle]  
 **2016-10-18**
 341.Flatten Nested List Iterator [Middle]  
-**2016-10-29**
+**2016-10-20**
 398.Random Pick Index [Middle]  
+**2016-10-21**
+74.Search a 2D Matrix [Middle]  
