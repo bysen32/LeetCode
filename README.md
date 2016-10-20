@@ -8,6 +8,7 @@
 **Mathmatic**  
 172.Factorial Trailing Zeroes [Easy] Caculate the number of trailing zeroes in n!  
 400.Nth Digit  [Easy]  
+398.Random Pick Index [Middle]  tips:¸ÅÂÊÖªÊ¶
 **Find Regulation**  
 12.Integer to Roman[Middle]  
 394.Decode String[Middle]  
