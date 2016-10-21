@@ -1,6 +1,7 @@
 # LeetCode
 **Basic**  
 405.Convert a Number to Hexadecimal [Easy]  
+289.Game of Life [Middle] tips:利用空闲bit节省空间
 **Recurtion**  
 404.Sum of Left Leaves [Easy]  
 241.Different Ways to Add Parentheses [Middle]  
@@ -29,3 +30,4 @@
 350.Intersection of Two Arrays II [Easy]  
 397.Integer Replacement [Easy]  
 406.Queue Reconstruction by Height [Middle]  
+284.Peeking Iterator [Middle]  

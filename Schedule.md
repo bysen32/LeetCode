@@ -32,3 +32,6 @@
 398.Random Pick Index [Middle]  
 **2016-10-21**
 74.Search a 2D Matrix [Middle]  
+**2016-10-22**
+284.Peeking Iterator [Middle]  
+289.Game of Life [Middle]  
