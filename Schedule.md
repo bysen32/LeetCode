@@ -35,3 +35,4 @@
 **2016-10-22**
 284.Peeking Iterator [Middle]  
 289.Game of Life [Middle]  
+393.UTF-8 Validation [Middle]  
