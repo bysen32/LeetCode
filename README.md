@@ -20,6 +20,7 @@
 234.Palindrome Linked List  
 173.Binary Search Tree Iterator [Middle] tips:注意细节  
 341.Flatten Nested List Iterator [Middle] tips:stack理解  
+331.Verify Preorder Serialization of a Binary Tree [Middle] tips:判断二叉树前缀序  
 **DP**  
 416.Partition Equal Subset Sum [Middle] tips:bitset的DP应用  
 309.Best Time to Buy and Sell Stock with Cooldown [Middle] tips:入门好题  
