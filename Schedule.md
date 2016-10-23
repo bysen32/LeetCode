@@ -37,3 +37,5 @@
 289.Game of Life [Middle]  
 393.UTF-8 Validation [Middle]  
 331.Verify Preorder Serialization of a Binary Tree [Middle]  
+**2016-10-23**
+424.Longest Repeating Character Replacement [Middle]  
