@@ -39,3 +39,5 @@
 331.Verify Preorder Serialization of a Binary Tree [Middle]  
 **2016-10-23**
 424.Longest Repeating Character Replacement [Middle]  
+**2016-10-28**
+395.Longest Substring with At Least K Repeating Characters [Middle]
