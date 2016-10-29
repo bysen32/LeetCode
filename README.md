@@ -11,12 +11,13 @@
 172.Factorial Trailing Zeroes [Easy] Caculate the number of trailing zeroes in n!  
 400.Nth Digit  [Easy]  
 398.Random Pick Index [Middle]  tips:概率知识  
+390.Elimination Game [Middle] tips:数学思想  
 **Find Regulation**  
 12.Integer to Roman[Middle]  
 394.Decode String[Middle]  
 313.Super Ugly Number [Middle] tips:逆向思维好题  
-424.Longest Repeating Character Replacement [Middle] tips:思路题
-395.Longest Substring with At Least K Repeating Characters [Middle] tips:思路题
+424.Longest Repeating Character Replacement [Middle] tips:思路题  
+395.Longest Substring with At Least K Repeating Characters [Middle] tips:思路题  
 **Data Structs**  
 235.Lowest Common Ancestor of a Binary Search Tree  
 234.Palindrome Linked List  

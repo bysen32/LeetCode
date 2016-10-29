@@ -40,4 +40,6 @@
 **2016-10-23**
 424.Longest Repeating Character Replacement [Middle]  
 **2016-10-28**
-395.Longest Substring with At Least K Repeating Characters [Middle]
+395.Longest Substring with At Least K Repeating Characters [Middle]  
+**2016-10-29**
+390.Elimination Game [Middle]  
