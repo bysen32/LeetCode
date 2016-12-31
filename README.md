@@ -3,6 +3,7 @@
 405.Convert a Number to Hexadecimal [Easy]  
 289.Game of Life [Middle] tips:利用空闲bit节省空间
 393.UTF-8 Validation [Middle] UTF-8字符格式  
+388.Longest Absolute File Path [Middle] 模拟题
 **Recurtion**  
 404.Sum of Left Leaves [Easy]  
 241.Different Ways to Add Parentheses [Middle]  

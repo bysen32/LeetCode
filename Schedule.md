@@ -43,3 +43,5 @@
 395.Longest Substring with At Least K Repeating Characters [Middle]  
 **2016-10-29**
 390.Elimination Game [Middle]  
+**2016-12-31**
+388.Longest Absolute File Path [Middle]
