@@ -44,4 +44,6 @@
 **2016-10-29**
 390.Elimination Game [Middle]  
 **2016-12-31**
-388.Longest Absolute File Path [Middle]
+388.Longest Absolute File Path [Middle]  
+**2016-01-03**
+474.Ones and Zeroes [Middle]  
