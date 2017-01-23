@@ -5,6 +5,7 @@
 393.UTF-8 Validation [Middle] UTF-8字符格式  
 388.Longest Absolute File Path [Middle] 模拟题
 442.Find All Duplicates in an Array 巧妙重用空间
+477.Total Hamming Distance 思路转换妙解
 **Recurtion**  
 404.Sum of Left Leaves [Easy]  
 241.Different Ways to Add Parentheses [Middle]  
