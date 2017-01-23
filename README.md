@@ -3,6 +3,8 @@
 405.Convert a Number to Hexadecimal [Easy]  
 289.Game of Life [Middle] tips:利用空闲bit节省空间
 393.UTF-8 Validation [Middle] UTF-8字符格式  
+388.Longest Absolute File Path [Middle] 模拟题
+442.Find All Duplicates in an Array 巧妙重用空间
 **Recurtion**  
 404.Sum of Left Leaves [Easy]  
 241.Different Ways to Add Parentheses [Middle]  
@@ -25,11 +27,13 @@
 341.Flatten Nested List Iterator [Middle] tips:stack理解  
 331.Verify Preorder Serialization of a Binary Tree [Middle] tips:判断二叉树前缀序  
 421.Maximum XOR of Two Numbers in an Array [Middle] tips:字典树+思路题  
+445.Add Two Numbers II [Middle] 链表反转  
 **DP**  
 416.Partition Equal Subset Sum [Middle] tips:bitset的DP应用  
 309.Best Time to Buy and Sell Stock with Cooldown [Middle] tips:入门好题  
 **Graphic Theory**  
 399.Evaluate Division [Middle] tips:Floyd算法  
+474. Ones and Zeroes [Middle] tips:二维费用背包问题  
 **Binary Search**  
 74. Search a 2D Matrix [Middle] tips:注意二分的正确写法  
 **Meanless**  

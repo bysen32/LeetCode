@@ -45,3 +45,7 @@
 390.Elimination Game [Middle]  
 **2016-10-31**  
 421.Maximum XOR of Two Numbers in an Array [Middle]  
+**2016-12-31**
+388.Longest Absolute File Path [Middle]  
+**2016-01-03**
+474.Ones and Zeroes [Middle]  
