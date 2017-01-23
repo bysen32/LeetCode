@@ -22,24 +22,26 @@
 **2016-10-15**  
 416.Partition Equal Subset Sum [Middle]  
 309.Best Time to Buy and Sell Stock with Cooldown [Middle]  
-**2016-10-16**
+**2016-10-16**  
 386.Lexicographical Numbers [Middle]  
 399.Evaluate Division [Middle]  
 313.Super Ugly Number [Middle]  
-**2016-10-18**
+**2016-10-18**  
 341.Flatten Nested List Iterator [Middle]  
-**2016-10-20**
+**2016-10-20**  
 398.Random Pick Index [Middle]  
-**2016-10-21**
+**2016-10-21**  
 74.Search a 2D Matrix [Middle]  
-**2016-10-22**
+**2016-10-22**  
 284.Peeking Iterator [Middle]  
 289.Game of Life [Middle]  
 393.UTF-8 Validation [Middle]  
 331.Verify Preorder Serialization of a Binary Tree [Middle]  
-**2016-10-23**
+**2016-10-23**  
 424.Longest Repeating Character Replacement [Middle]  
-**2016-10-28**
+**2016-10-28**  
 395.Longest Substring with At Least K Repeating Characters [Middle]  
-**2016-10-29**
+**2016-10-29**  
 390.Elimination Game [Middle]  
+**2016-10-31**  
+421.Maximum XOR of Two Numbers in an Array [Middle]  
