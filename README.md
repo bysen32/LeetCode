@@ -30,6 +30,7 @@
 331.Verify Preorder Serialization of a Binary Tree [Middle] tips:判断二叉树前缀序  
 421.Maximum XOR of Two Numbers in an Array [Middle] tips:字典树+思路题  
 445.Add Two Numbers II [Middle] 链表反转  
+449.Serialize and Deserialize BST Middle] 序列化与反序列化二叉树  
 **DP**  
 416.Partition Equal Subset Sum [Middle] tips:bitset的DP应用  
 309.Best Time to Buy and Sell Stock with Cooldown [Middle] tips:入门好题  
