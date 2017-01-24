@@ -34,6 +34,7 @@
 416.Partition Equal Subset Sum [Middle] tips:bitset的DP应用  
 309.Best Time to Buy and Sell Stock with Cooldown [Middle] tips:入门好题  
 494.Target Sum [Middle] 将问题转化为一个背包问题求解  
+486.Predict the Winner [Middle] 状态转移的构造法
 **Graphic Theory**  
 399.Evaluate Division [Middle] tips:Floyd算法  
 474. Ones and Zeroes [Middle] tips:二维费用背包问题  
