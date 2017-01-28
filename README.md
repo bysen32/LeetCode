@@ -1,12 +1,13 @@
 # LeetCode
 **Basic**  
 405.Convert a Number to Hexadecimal [Easy]  
-289.Game of Life [Middle] tips:利用空闲bit节省空间
+289.Game of Life [Middle] tips:利用空闲bit节省空间  
 393.UTF-8 Validation [Middle] UTF-8字符格式  
-388.Longest Absolute File Path [Middle] 模拟题
-442.Find All Duplicates in an Array 巧妙重用空间
-477.Total Hamming Distance 思路转换妙解
-454.4Sum II 思路妙解
+388.Longest Absolute File Path [Middle] 模拟题  
+442.Find All Duplicates in an Array 巧妙重用空间  
+477.Total Hamming Distance 思路转换妙解  
+454.4Sum II 思路妙解  
+151.Reverse Words in a String [Middle] 基础算法，注意细节  
 **Recurtion**  
 404.Sum of Left Leaves [Easy]  
 241.Different Ways to Add Parentheses [Middle]  
@@ -31,12 +32,12 @@
 421.Maximum XOR of Two Numbers in an Array [Middle] tips:字典树+思路题  
 445.Add Two Numbers II [Middle] 链表反转  
 449.Serialize and Deserialize BST Middle] 序列化与反序列化二叉树  
-450.Delete Node in a BST  [Middle] BST delete Node
+450.Delete Node in a BST  [Middle] BST delete Node  
 **DP**  
 416.Partition Equal Subset Sum [Middle] tips:bitset的DP应用  
 309.Best Time to Buy and Sell Stock with Cooldown [Middle] tips:入门好题  
 494.Target Sum [Middle] 将问题转化为一个背包问题求解  
-486.Predict the Winner [Middle] 状态转移的构造法
+486.Predict the Winner [Middle] 状态转移的构造法  
 **Graphic Theory**  
 399.Evaluate Division [Middle] tips:Floyd算法  
 474. Ones and Zeroes [Middle] tips:二维费用背包问题  
